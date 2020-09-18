@@ -21,7 +21,7 @@
         "href": "#",
         "noFollow": false,
         "tagTitle": "News",
-        "text": "News"
+        "text": "Novidades"
       }
     }
   },
@@ -51,7 +51,7 @@
         "href": "#",
         "noFollow": false,
         "tagTitle": "Sale",
-        "text": "Sale"
+        "text": "Lojas"
       }
     }
   },
@@ -66,7 +66,7 @@
         "href": "#",
         "noFollow": false,
         "tagTitle": "Personalization",
-        "text": "Personalization"
+        "text": "Produtos personalizados"
       }
     }
   },
@@ -93,7 +93,7 @@
         "href": "/decoration/smartphones",
         "noFollow": true,
         "tagTitle": "Smartphones",
-        "text": "Smartphones"
+        "text": "Moda Casual"
       }
     }
   },
@@ -109,7 +109,7 @@
         "href": "/decoration/videogames",
         "noFollow": true,
         "tagTitle": "Videogames",
-        "text": "Videogames"
+        "text": "Moda Esporte"
       }
     }
   },
@@ -125,7 +125,7 @@
         "href": "/decoration/tvs",
         "noFollow": true,
         "tagTitle": "TVs",
-        "text": "TVs"
+        "text": "Moda Intima"
       }
     }
   },
@@ -152,7 +152,7 @@
         "href": "/bags/d",
         "noFollow": true,
         "tagTitle": "Bags",
-        "text": "Bags"
+        "text": "Bolsas"
       }
     }
   },
@@ -168,7 +168,7 @@
         "href": "/bags/backpacks",
         "noFollow": true,
         "tagTitle": "Backpacks",
-        "text": "Backpacks"
+        "text": "Acessórios"
       }
     }
   },
@@ -184,7 +184,7 @@
         "href": "/bags/necessaire",
         "noFollow": true,
         "tagTitle": "Necessaire",
-        "text": "Necessaire"
+        "text": "Calçados"
       }
     }
   },
