@@ -61,7 +61,7 @@
   },
   "rich-text#deal3": {
     "props": {
-      "text": "Retire na loja",
+      "text": "Conheça a loja mais próxima de você",
       "blockClass": "deals"
     }
   },
